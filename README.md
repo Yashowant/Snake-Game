@@ -26,5 +26,6 @@ Run this code in Terminal.
 CONGRATULATIONS, YOU HAVE FINALLY CREATED A SNAKE GAME USING PYTHON!!!
 
 Go to this:- https://www.youtube.com/@Lurax_Gamer?sub_confirmation=1
+See this:- https://youtu.be/UpSpREzAnlo
 
 #2D@Snake@Game#
